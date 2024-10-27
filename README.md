@@ -1,5 +1,11 @@
 # WebOS 🖥️✨
 
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/93c58db4-6a39-4d8c-a76a-820bc28c2645">
+
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/a09ffd06-f497-47db-b09e-7a3832a51afa">
+
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/44e776f2-dd8b-4daa-b08b-4e870a2e17e7">
+
 ברוכים הבאים ל-WebOS - העתיד של מערכות הפעלה מבוססות דפדפן! 🚀
 
 ## מה זה WebOS? 🤔
